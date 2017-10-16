@@ -1,0 +1,11 @@
+﻿0dee7cc2-97f0-45d8-8b23-2b21c90f0aa6-->und\0dee7cc2-97f0-45d8-8b23-2b21c90f0aa6
+0dee7cc2-97f0-45d8-8b23-2b21c90f0aa6.0-->Form\УстановкаСоответствий
+53e4d855-a2cc-4dbc-acf6-c9de74371742.0\info-->und\53e4d855-a2cc-4dbc-acf6-c9de74371742.0\info
+53e4d855-a2cc-4dbc-acf6-c9de74371742.0\text-->ObjectModule.bsl
+5f1fc351-1422-4de6-8c1c-29a9d68f8417-->und\5f1fc351-1422-4de6-8c1c-29a9d68f8417
+5f1fc351-1422-4de6-8c1c-29a9d68f8417.0-->Form\Форма
+copyinfo-->und\copyinfo
+f5bb81a7-c69a-4b6e-886e-b28cc61e3d29-->und\f5bb81a7-c69a-4b6e-886e-b28cc61e3d29
+root-->und\root
+version-->und\version
+versions-->und\versions
