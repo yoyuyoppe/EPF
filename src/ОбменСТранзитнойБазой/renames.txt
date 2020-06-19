@@ -6,6 +6,8 @@
 a5df02f9-bc5d-484e-989b-fca2240f6462.0\info-->und\a5df02f9-bc5d-484e-989b-fca2240f6462.0\info
 a5df02f9-bc5d-484e-989b-fca2240f6462.0\text-->ObjectModule.bsl
 copyinfo-->und\copyinfo
+f16bd818-f3ba-42a6-8077-ce1c602ba021-->und\f16bd818-f3ba-42a6-8077-ce1c602ba021
+f16bd818-f3ba-42a6-8077-ce1c602ba021.0-->Form\фПервичнаяВыгрузкаСправочников
 root-->und\root
 version-->und\version
 versions-->und\versions
