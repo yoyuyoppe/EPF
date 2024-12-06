@@ -1,0 +1,2 @@
+﻿Material	Plant	Storage Location	Batch	Base Unit of Measure	Unrestricted	Restricted-Use Stock	Blocked
+Артикул	Завод	КодСклада	Партия	ЕдиницаХраненияОстатков	СвободныйЗапас	ОграниченныйЗапас	ЗаблокированныйЗапас
